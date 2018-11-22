@@ -1,2 +1,2 @@
-# spira
+# Spira
 Discord Bot
